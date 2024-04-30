@@ -14,5 +14,6 @@ public class MathodP {
         System.out.print("PLEASE ENTER YOUR NUMBER TO FIND SQORT :");
         Num=Keyb.nextInt();
         System.out.println("The Square root of "+ Num +" is "+ Math.sqrt(Num));
+        System.out.println("I will add more functions to this");
     }
 }
